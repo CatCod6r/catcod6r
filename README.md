@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CatCod6r</h1>
-<h3 align="center">Systems Programmer & DevOps Enthusiast</h3>
+<h3 align="center">DevOps Enthusiast</h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CatCod6r.CatCod6r&"  />
@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently building **DevOps automation scripts** and **systems-level applications**.
-- 🦀 Passionate about low-level programming with **Rust, C/C++, and Assembly**.
 - 📍 Based in Kyiv, Ukraine.
 
 <div align="left">
